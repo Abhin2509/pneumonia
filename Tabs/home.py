@@ -10,7 +10,7 @@ def app():
     st.title("Pneumonia Type and Level Detector")
 
     # Add image to the home page
-    st.image("./images/home.png",width=1000)
+    st.image("./images/lung.jpg",width=1000)
 
     # Add brief describtion of your web app
     st.markdown(
